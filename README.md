@@ -14,9 +14,11 @@
 <p>
   I spent a few years after college in investment banking and corporate finance / M&A. I thought about what my career might look like 10, 20, even 30 years from that point and realized I'd always regret not building great technical skills that went beyond Excel and PowerPoint (though I'm happy I can build some sick financial models and slide decks). 
   
-  After more than a year of lurking around the edges of different tech communities online and practicing some intro programming, I entered a coding bootcamp at the end of 2021 and just recently finished. Right now I'm learning data structures and algorithms to prepare for rigorous interviews by day, and learning new technologies through project building by night.
+  After more than a year of lurking around the edges of different tech communities online and practicing some intro programming, I entered a coding bootcamp at the end of 2021 and just recently finished. It's early days yet, but I can't imagine running out of problems to solve or new things to learn in the world of software; I think I'll be here a while. 
   
-  It's early days yet, but I can't imagine running out of problems to solve or new things to learn in the world of software; I think I'll be here a while. 
+### _Right now I'm learning data structures and algorithms to prepare for rigorous interviews by day, and new technologies through project building by night. Drop me a note through LinkedIn/Email to chat anything tech / career related!_
+  
+  
 </p>
 
 <h2>
