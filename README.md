@@ -1,5 +1,5 @@
 <p>
-  <p>Email: alexsmaldone@gmail.com</p>
+  <p>alexsmaldone@gmail.com</p>
   <a href="https://www.linkedin.com/in/alex-smaldone/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
