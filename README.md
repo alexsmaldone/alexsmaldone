@@ -6,7 +6,9 @@
   
 </p>
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsmaldone&theme=radical&show_icons=true)](https://github.com/alexsmaldone/)
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexsmaldone&show_icons=true&count_private=true&theme=radical" width="350"></a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmaldone&theme=radical&layout=compact)](https://github.com/alexsmaldone/)
 
