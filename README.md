@@ -45,9 +45,10 @@
   Projects
 </h2>
 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsmaldone&repo=Moodify&theme=gotham&card_width=500)](https://github.com/alexsmaldone/Moodify)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsmaldone&repo=BizarreBnb&theme=gotham&card_width=500)](https://github.com/alexsmaldone/BizarreBnb)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsmaldone&repo=good-game-guides&theme=gotham&card_width=500)](https://github.com/alexsmaldone/good-game-guides)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsmaldone&repo=Moodify&theme=gotham&card_width=500)](https://github.com/alexsmaldone/Moodify)
+
 
 
 
