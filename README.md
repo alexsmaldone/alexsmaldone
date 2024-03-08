@@ -39,15 +39,6 @@
 
 
 
-<h2>
- Github Stats
-</h2>
-<div>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexsmaldone&show_icons=true&count_private=true&theme=radical" height="180"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmaldone&theme=radical&layout=compact" height="180"></a>
-</div>
-
-
 
 
 
