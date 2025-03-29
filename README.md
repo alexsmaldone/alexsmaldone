@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi, I'm Alex! Welcome to my Github
+  Welcome to my Github
 </h1>
 <p align='center'>alexsmaldone@gmail.com</p>
 <p align='center'>
